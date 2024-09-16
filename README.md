@@ -12,4 +12,4 @@ Task 1: Analysis and processing of data, and with it's help predicting if the pa
             1. Accuracy
 			2. Recall
             3. Precision
-			4. F1 Score
+			4. F1 Score 
