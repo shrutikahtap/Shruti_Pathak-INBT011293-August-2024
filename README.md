@@ -16,7 +16,6 @@ Task 1: Analysis and processing of data, and with it's help predicting if the pa
 
 
 
-
 Task 2: Data exploration and preprocessing of dataset of bitcoin transaction, later performing feauture selection on the given data, visualization and making a predictive 
         regression model to predict the future transactions i.e. here closingvalue of bitcoins ('close') by applying linear regressor and random forest regressor on the 
         dataset. 
