@@ -13,3 +13,25 @@ Task 1: Analysis and processing of data, and with it's help predicting if the pa
 			2. Recall
             3. Precision
 			4. F1 Score 
+
+
+
+
+Task 2: Data exploration and preprocessing of dataset of bitcoin transaction, later performing feauture selection on the given data, visualization and making a predictive 
+        regression model to predict the future transactions i.e. here closingvalue of bitcoins ('close') by applying linear regressor and random forest regressor on the 
+        dataset. 
+	The evaluation metrics was also drafted by using the evaluation parameter such as:
+	1. Mean Absolute Error
+        2. Mean Squared Error
+	3. R-square 
+
+
+
+
+
+
+
+
+
+ 
+ 
