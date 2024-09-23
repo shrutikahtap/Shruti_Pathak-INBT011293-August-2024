@@ -34,7 +34,8 @@ Task 2: Data exploration and preprocessing of dataset of bitcoin transaction, la
 	        1. Mean Absolute Error
                 2. Mean Squared Error
 		3. Root mean squared Error
-	        4. R-square .
+	        4. R-square 
+	        The required dataset is attached as https://www.kaggle.com/datasets/ineubytes/online-retail-ecommerce-dataset
 
 
 
