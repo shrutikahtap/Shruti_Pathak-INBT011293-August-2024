@@ -22,7 +22,19 @@ Task 2: Data exploration and preprocessing of dataset of bitcoin transaction, la
 	The evaluation metrics was also drafted by using the evaluation parameter such as:
 	1. Mean Absolute Error
         2. Mean Squared Error
-	3. R-square 
+	3. R-square .
+        The required dataset is attached as https://www.kaggle.com/datasets/ineubytes/bitcoin-historical-data-2021
+
+
+
+ Major Project: In this projecr we performed data preprocessing of the given online retail dataset, that is based on the transactional records of the UK based online e- 
+                commerce company. I later on performed data cleaning, feature selection and feature generation, and I also made the predictive model based on the data and 
+                then later used Tableau for data analysis and visualization purpose.
+		The evaluation metrics was also drafted by using the evaluation parameter such as:
+	        1. Mean Absolute Error
+                2. Mean Squared Error
+		3. Root mean squared Error
+	        4. R-square .
 
 
 
